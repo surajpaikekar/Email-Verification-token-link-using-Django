@@ -1,6 +1,6 @@
-# Email OTP verification sample using Django
+# Email Verification link sample using Django
 
-## Here We are going to see how we can send Email OTP using django.
+## Here We are going to see how we can send Email verification link using django.
   - ### Requirements - You need to setup your email in settings.py file.
       - EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
       - EMAIL_HOST = 'smtp.gmail.com'
